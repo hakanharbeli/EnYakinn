@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EnYakın</string>
+    <string-array name="Cities">
+        <item>İl seçiniz..</item>
+        <item>İstanbul</item>
+        <item>Ankara</item>
+        <item>izmir</item>
+        <item>Diğer</item>
+        <item>Diğer</item>
+        <item>Diğer</item>
+        <item>Diğer</item>
+    </string-array>
+
+    <string-array name="Kategori">
+        <item>Kategori Seçiniz..</item>
+        <item>Yemek-Gıda</item>
+        <item>Kozmetik</item>
+        <item>Giyim</item>
+        <item>Diğer</item>
+        <item>Diğer</item>
+        <item>Diğer</item>
+        <item>Diğer</item>
+    </string-array>
+</resources>

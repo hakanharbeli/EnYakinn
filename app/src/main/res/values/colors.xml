@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#365F9A</color>
+    <color name="colorPrimaryDark">#04105C</color>
+    <color name="DarkBlueButton">#071570</color>
+    <color name="colorAccent">#44588b</color>
+    <color name="shadow">#ABCBD8</color>
+    <color name="darktext">#030B2B</color>
+    <color name="textincardview">#9C9EA0</color>
+    <color name="backround">#FFFFFF</color>
+</resources>
